@@ -1,0 +1,4 @@
+#Thu Nov 22 09:10:37 EET 2018
+base.0=D\:\\Sapi\\Aut 3\\Szoft\\TGMcATHLETES\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

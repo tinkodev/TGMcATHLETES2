@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\818d0db0c3fbe006d814d2bf4c5ba015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5e20fe150819f732bbd8fc22f9ce5582\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\addde9bb121db8c30e93c8f32e7374b5\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c5e39ea45bd98d739644ac4ec015af4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31e82e2825123c7ab8ae4028162721a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\39694cf1d9aa228c99f93841b42040a4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\435ec1f13e4e8bcbbe2ad43ce7bef66a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\20fea3f314120cb6398a9ee46ef9c3fa\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\232b7aefaa996133500b4ffb8dddaa2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\48130094883f384977b187eac1d00a89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a437fccf55683a4b75df895322b251b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a7fb37407f54da5eef96957e1d26fd3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e6e9f4217149023a110bea781cdc6e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fa50f439d2b394a99c690aa144435233\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19b718124fcfc8b6a60ef6346d66f4bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f9385cd52a046b944317162c778a7a89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b608def91a1641ea7ea254ba2de2ae14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7b0874c8dd8be9b4284e96f51f7e0a05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a8b5c5a8c1f06d4410560ac4ed934d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2576474d291170347995066fd3406fbb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\232299da8abf4e1bb829829e08c8b2f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33ee29b231310fbffb2d43fff7327861\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\85b1adefc909beb2511f6626034ece8b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfcb018c971e4c941f346b2462eb5c2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7cf96873118c4704b9338aa24f498982\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a5f43ff6a18d4ff8956caafcb1d90b7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4363dd6faa058a443ed4f11660678073\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\833bb196ce24022295c99fc8ce72d939\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960552fd21ede7628ffce86f302002c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\86e2df30afe82cc8e37b1ada037e8b45\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5e20fe150819f732bbd8fc22f9ce5582\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5e20fe150819f732bbd8fc22f9ce5582\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\435ec1f13e4e8bcbbe2ad43ce7bef66a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\435ec1f13e4e8bcbbe2ad43ce7bef66a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2576474d291170347995066fd3406fbb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2576474d291170347995066fd3406fbb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.roland.tgmcathletes.MainActivity
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.roland.tgmcathletes.Activity_register
+ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:19:9-64
+	android:name
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml:19:19-52
+uses-sdk
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\818d0db0c3fbe006d814d2bf4c5ba015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\818d0db0c3fbe006d814d2bf4c5ba015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5e20fe150819f732bbd8fc22f9ce5582\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5e20fe150819f732bbd8fc22f9ce5582\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\addde9bb121db8c30e93c8f32e7374b5\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\addde9bb121db8c30e93c8f32e7374b5\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c5e39ea45bd98d739644ac4ec015af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\c5e39ea45bd98d739644ac4ec015af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31e82e2825123c7ab8ae4028162721a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31e82e2825123c7ab8ae4028162721a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\39694cf1d9aa228c99f93841b42040a4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\39694cf1d9aa228c99f93841b42040a4\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\435ec1f13e4e8bcbbe2ad43ce7bef66a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\435ec1f13e4e8bcbbe2ad43ce7bef66a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\20fea3f314120cb6398a9ee46ef9c3fa\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\20fea3f314120cb6398a9ee46ef9c3fa\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\232b7aefaa996133500b4ffb8dddaa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\232b7aefaa996133500b4ffb8dddaa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\48130094883f384977b187eac1d00a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\48130094883f384977b187eac1d00a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a437fccf55683a4b75df895322b251b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a437fccf55683a4b75df895322b251b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a7fb37407f54da5eef96957e1d26fd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a7fb37407f54da5eef96957e1d26fd3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e6e9f4217149023a110bea781cdc6e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e6e9f4217149023a110bea781cdc6e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fa50f439d2b394a99c690aa144435233\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\fa50f439d2b394a99c690aa144435233\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19b718124fcfc8b6a60ef6346d66f4bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\19b718124fcfc8b6a60ef6346d66f4bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f9385cd52a046b944317162c778a7a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f9385cd52a046b944317162c778a7a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b608def91a1641ea7ea254ba2de2ae14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b608def91a1641ea7ea254ba2de2ae14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7b0874c8dd8be9b4284e96f51f7e0a05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7b0874c8dd8be9b4284e96f51f7e0a05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a8b5c5a8c1f06d4410560ac4ed934d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3a8b5c5a8c1f06d4410560ac4ed934d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e27e554496ae9ae36a3f19094097423f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2576474d291170347995066fd3406fbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2576474d291170347995066fd3406fbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\232299da8abf4e1bb829829e08c8b2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\232299da8abf4e1bb829829e08c8b2f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33ee29b231310fbffb2d43fff7327861\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33ee29b231310fbffb2d43fff7327861\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\85b1adefc909beb2511f6626034ece8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\85b1adefc909beb2511f6626034ece8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfcb018c971e4c941f346b2462eb5c2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cfcb018c971e4c941f346b2462eb5c2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7cf96873118c4704b9338aa24f498982\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7cf96873118c4704b9338aa24f498982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a5f43ff6a18d4ff8956caafcb1d90b7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a5f43ff6a18d4ff8956caafcb1d90b7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4363dd6faa058a443ed4f11660678073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4363dd6faa058a443ed4f11660678073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\833bb196ce24022295c99fc8ce72d939\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\833bb196ce24022295c99fc8ce72d939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960552fd21ede7628ffce86f302002c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b960552fd21ede7628ffce86f302002c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\86e2df30afe82cc8e37b1ada037e8b45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\86e2df30afe82cc8e37b1ada037e8b45\AndroidManifest.xml:20:5-44
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		ADDED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Sapi\Aut 3\Szoft\TGMcATHLETES\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\39694cf1d9aa228c99f93841b42040a4\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\39694cf1d9aa228c99f93841b42040a4\AndroidManifest.xml:8:22-64
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\c7bc435289fd87019c66fb598a382c34\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1af8834de6e0babe3d18bf3d52c01a04\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\ac6f9e9797426147bccafb97427cb2c5\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Roland\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a10f8d51c2601016d8c5262e2fdf4edd\AndroidManifest.xml:27:13-51

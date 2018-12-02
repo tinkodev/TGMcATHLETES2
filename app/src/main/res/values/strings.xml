@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TGM cATHLETES</string>
+    <string name="password_Reg_Log">Password</string>
+    <string name="register_Reg_Log">Register</string>
+    <string name="email_Reg">Email</string>
+    <string name="username_Reg_Log">UserName</string>
+    <string name="login_Log">Login</string>
+</resources>
