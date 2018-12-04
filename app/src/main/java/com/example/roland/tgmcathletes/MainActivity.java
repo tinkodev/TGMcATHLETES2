@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 import android.widget.Button;
 
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
@@ -17,14 +18,14 @@ public class MainActivity extends AppCompatActivity  {
 
       private EditText userName,password;
       private  Button register,login;
-    DatabaseReference databaseReference;
+   // DatabaseReference databaseReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        databaseReference = FirebaseDatabase.getInstance().getReference("tgm-cathletes");
+        //databaseReference = FirebaseAuth.getInstance();
 
         userName=(EditText)findViewById(R.id.userNameLog);
         password=(EditText)findViewById(R.id.passwordLog) ;
@@ -33,34 +34,34 @@ public class MainActivity extends AppCompatActivity  {
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // Intent intent = new Intent(v.getContext(), Activity_register.class);
-               // v.getContext().startActivity(intent);
-                addLogin();
+                Intent intent = new Intent(v.getContext(), Activity_register.class);
+                v.getContext().startActivity(intent);
+
 
             }
 
         });
 
-/*
+
         login = (Button) findViewById(R.id.buttonLogin);
-        register.setOnClickListener(new View.OnClickListener() {
+        login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-            addLogin();
+           // addLogin();
                 }
 
-        });*/
+        });
 
     }
 
-
+/*
     public void addLogin(){
         String loginUser = userName.getText().toString().trim();
         String loginPassword = password.getText().toString().trim();
 
         if(!TextUtils.isEmpty(loginUser)&&!TextUtils.isEmpty(loginPassword)){
 
-            String id = databaseReference.push().getKey();
+           String id = databaseReference.push().getKey();
             LoginUser login = new LoginUser(id,loginUser,loginPassword);
 
             databaseReference.child(id).setValue(login);
@@ -73,6 +74,6 @@ public class MainActivity extends AppCompatActivity  {
     }
 
 
-
+*/
 
 }
