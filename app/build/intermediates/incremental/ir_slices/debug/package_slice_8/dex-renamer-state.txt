@@ -1,4 +1,4 @@
-#Mon Nov 26 20:09:33 EET 2018
-base.0=D\:\\Sapi\\Aut 3\\Szoft\\TGMcATHLETES\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+#Sat Nov 24 13:14:29 EET 2018
+base.0=C\:\\AndroidProjects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

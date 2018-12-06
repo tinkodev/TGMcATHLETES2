@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Explore">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_programs"
+                    android:icon="@drawable/ic_fitness"
+                    android:title="@string/programs" />
+                <item
+                    android:id="@+id/nav_skills"
+                    android:icon="@drawable/ic_skills"
+                    android:title="@string/skills" />
+                <item
+                    android:id="@+id/nav_daily_chalange"
+                    android:icon="@drawable/ic_daily_chalange"
+                    android:title="@string/daily_chalange" />
+
+
+            </group>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_account"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="@string/logout" />
+    </group>
+</menu>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">57815902598-3fq16efjk6hk8v81n8o278k2dhmusjt7.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://tgmcathletes-27083.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">57815902598</string>
-    <string name="google_api_key" translatable="false">AIzaSyBCQf39ZVxHcRDcwismJfYY8LOw8q4x-Ak</string>
-    <string name="google_app_id" translatable="false">1:57815902598:android:85b48166b7fe754a</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCQf39ZVxHcRDcwismJfYY8LOw8q4x-Ak</string>
-    <string name="google_storage_bucket" translatable="false">tgmcathletes-27083.appspot.com</string>
-    <string name="project_id" translatable="false">tgmcathletes-27083</string>
+    <string name="default_web_client_id" translatable="false">539062740158-kr1sbkde0jenes8os7qs69v55ugnbkok.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://androidprojects-f6036.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">539062740158</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHbwIAeqk2IvMKMf83MQ8xrPwzzmvyggY</string>
+    <string name="google_app_id" translatable="false">1:539062740158:android:f277473ce42733bf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHbwIAeqk2IvMKMf83MQ8xrPwzzmvyggY</string>
+    <string name="google_storage_bucket" translatable="false">androidprojects-f6036.appspot.com</string>
+    <string name="project_id" translatable="false">androidprojects-f6036</string>
 </resources>

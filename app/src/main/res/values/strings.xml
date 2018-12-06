@@ -1,8 +1,19 @@
 <resources>
-    <string name="app_name">TGM cATHLETES</string>
-    <string name="password_Reg_Log">Password</string>
-    <string name="register_Reg_Log">Register</string>
-    <string name="email_Reg">Email</string>
-    <string name="username_Reg_Log">UserName</string>
-    <string name="login_Log">Login</string>
+    <string name="app_name">TgmApp</string>
+    <string name="tgm_name">TGM cATHLETES</string>
+    <string name="title_activity_workouts">Workouts</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home_page">Home Page</string>
+    <string name="programs">Programs</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="skills">Skills</string>
+    <string name="daily_chalange">Daily Chalange</string>
+
 </resources>

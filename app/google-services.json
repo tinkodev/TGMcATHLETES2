@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "57815902598",
-    "firebase_url": "https://tgmcathletes-27083.firebaseio.com",
-    "project_id": "tgmcathletes-27083",
-    "storage_bucket": "tgmcathletes-27083.appspot.com"
+    "project_number": "539062740158",
+    "firebase_url": "https://androidprojects-f6036.firebaseio.com",
+    "project_id": "androidprojects-f6036",
+    "storage_bucket": "androidprojects-f6036.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:57815902598:android:85b48166b7fe754a",
+        "mobilesdk_app_id": "1:539062740158:android:f277473ce42733bf",
         "android_client_info": {
-          "package_name": "com.example.roland.tgmcathletes"
+          "package_name": "com.example.thewskilla.tgmapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "57815902598-0faa4otusqv70sv7r8crvrd00ackjupc.apps.googleusercontent.com",
+          "client_id": "539062740158-f9e1phvrcthflg7j5dsbg134r2u1233h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.roland.tgmcathletes",
-            "certificate_hash": "af3d5571d0c1c717cc253c9ea47bae40bb4c5135"
+            "package_name": "com.example.thewskilla.tgmapp",
+            "certificate_hash": "6873f5de62635368b0b134730acb327f003c5978"
           }
         },
         {
-          "client_id": "57815902598-3fq16efjk6hk8v81n8o278k2dhmusjt7.apps.googleusercontent.com",
+          "client_id": "539062740158-kr1sbkde0jenes8os7qs69v55ugnbkok.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBCQf39ZVxHcRDcwismJfYY8LOw8q4x-Ak"
+          "current_key": "AIzaSyCHbwIAeqk2IvMKMf83MQ8xrPwzzmvyggY"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "57815902598-3fq16efjk6hk8v81n8o278k2dhmusjt7.apps.googleusercontent.com",
+              "client_id": "539062740158-kr1sbkde0jenes8os7qs69v55ugnbkok.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

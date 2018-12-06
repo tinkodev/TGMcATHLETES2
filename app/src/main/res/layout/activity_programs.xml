@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Home_Screen.Programs"
+    android:orientation="vertical">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorBlack"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/Theme.AppCompat.Light" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Calisthenics"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorBlack"
+                    android:paddingTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:id="@+id/beginner_id"
+                android:background="@drawable/beginner"
+                android:layout_marginBottom="5dp"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:id="@+id/intermediate_id"
+                android:background="@drawable/intermediate"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:id="@+id/advance_id"
+                android:background="@drawable/advance"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:id="@+id/weighted_id"
+                android:background="@drawable/weighted"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="15dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/drawer_menu" />
+</android.support.v4.widget.DrawerLayout>
+

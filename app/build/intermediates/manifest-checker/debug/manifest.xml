@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.roland.tgmcathletes"
+    package="com.example.thewskilla.tgmapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="21"
         android:targetSdkVersion="28" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,37 +14,67 @@
         android:allowBackup="true"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/app_logo_round"
+        android:label="@string/tgm_name"
+        android:roundIcon="@mipmap/app_logo_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.roland.tgmcathletes.MainActivity" >
+        <activity android:name="com.example.thewskilla.tgmapp.Home_Screen.MainActivity" />
+        <activity android:name="com.example.thewskilla.tgmapp.Splash_Screen.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.roland.tgmcathletes.Activity_register" />
+        <activity android:name="com.example.thewskilla.tgmapp.Login_SignUp_Screen.LoginScreen" />
+        <activity android:name="com.example.thewskilla.tgmapp.Login_SignUp_Screen.SignUpScreen" />
+        <activity android:name="com.example.thewskilla.tgmapp.Home_Screen.Programs" />
+        <activity android:name="com.example.thewskilla.tgmapp.Home_Screen.Skills" />
+        <activity android:name="com.example.thewskilla.tgmapp.Home_Screen.Daily" />
+        <activity android:name="com.example.thewskilla.tgmapp.Programs_Screen.Beginner_workout" />
+        <activity android:name="com.example.thewskilla.tgmapp.Intermediate_workout" />
+        <activity android:name="com.example.thewskilla.tgmapp.Advance_workout" />
+        <activity android:name="com.example.thewskilla.tgmapp.Weighted_workout" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.thewskilla.tgmapp.com.squareup.picasso"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.roland.tgmcathletes.firebaseinitprovider"
+            android:authorities="com.example.thewskilla.tgmapp.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.1.0" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.example.roland.tgmcathletes.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.thewskilla.tgmapp.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

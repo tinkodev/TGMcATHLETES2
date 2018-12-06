@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Intermediate_workout"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@drawable/intermediate">
+    </RelativeLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Category"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorBlack"
+                android:paddingTop="5dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_CT_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:text="Chest &amp; Triceps"
+                android:textSize="20dp"
+                android:textStyle="bold"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_BB_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:text="Back &amp; Biceps"
+                android:textSize="20dp"
+                android:textStyle="bold"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_LC_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Leg &amp; Core"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_C_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Cardio"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_S_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Shoulders"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_PP_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Push-Pull"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_CP_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Cardio plus"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_six_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Six pack"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_M_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Magic 100"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@android:color/darker_gray"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:id="@+id/intermediate_FB_id"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/rounded_button_transparent"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:text="Full Body"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

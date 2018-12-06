@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Wed Nov 28 15:48:23 EET 2018
+#Wed Nov 28 16:11:08 EET 2018
+1.base=D\:\\Sapi\\Aut 3\\AndroidProjects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Roland\\Desktop\\TGMcATHLETES21\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=D\:\\Sapi\\Aut 3\\AndroidProjects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+1.path=classes.dex
